@@ -1,3 +1,3 @@
 React Projects
 
-Accordian, Random Color
+Accordian, Random Color, Star rating
